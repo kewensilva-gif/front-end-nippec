@@ -1,0 +1,1 @@
+<template><div>Noticias</div></template>
