@@ -3,9 +3,18 @@
 </script>
 
 <template>
-    <h1 class="font-heading bg-primary-color text-secondary-color text-3xl font-bold underline">
+    <h1 class="">
       Hello world!
     </h1>
+    <h2 class="">
+      Hello world!
+    </h2>
+    <h3 class="">
+      Hello world!
+    </h3>
+    <h4 class="">
+      Hello world!
+    </h4>
   </template>
 
 <style scoped>
